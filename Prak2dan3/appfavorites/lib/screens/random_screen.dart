@@ -31,7 +31,7 @@ class RandomScreen extends StatelessWidget {
                   appState.toggleFavorite();
                 },
                 icon: Icon(icon),
-                label: const Text("Likes"),
+                label: const Text("Favorite"),
               ),
               const SizedBox(width: 10),
               ElevatedButton(
