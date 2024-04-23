@@ -13,5 +13,5 @@ To start working with this project locally, follow these steps:
 2. Navigate to the project directory:
 
     ```bash
-      cd Praktikum_Teknologi_Mobile.git
+      cd Praktikum_Teknologi_Mobile
     ```
