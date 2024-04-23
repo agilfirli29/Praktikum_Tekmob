@@ -8,10 +8,10 @@ To start working with this project locally, follow these steps:
 
 1.Clone the repository to your local machine using the following command:
    ```sh
-   git clone 
+   git clone https://github.com/agilfirli29/Praktikum_Teknologi_Mobile.git
    ```
 2. Navigate to the project directory:
 
     ```bash
-      cd Learn_Flutter_Layout-2
+      cd Praktikum_Teknologi_Mobile.git
     ```
