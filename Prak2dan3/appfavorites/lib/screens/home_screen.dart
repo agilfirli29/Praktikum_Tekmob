@@ -69,7 +69,7 @@ class _HomeScreenState extends State<HomeScreen> {
             ),
             ListTile(
               leading: Icon(Icons.favorite),
-              title: Text('Likes'),
+              title: Text('Like'),
               onTap: () {
                 setState(() {
                   currentIndex = 1;
