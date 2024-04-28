@@ -8,7 +8,7 @@ To start working with this project locally, follow these steps:
 
 1.Clone the repository to your local machine using the following command:
    ```sh
-   git clone https://github.com/agilfirli29/Praktikum_Teknologi_Mobile.git
+   https://github.com/agilfirli29/Praktikum_Teknologi_Mobile.git
    ```
 2. Navigate to the project directory:
 
